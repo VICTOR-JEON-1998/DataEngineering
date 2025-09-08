@@ -8,6 +8,9 @@
    2-1 Copy existing job
    2-2 Rename copied job and change the table on source, target
    2-3 Create new table definiton if there was no definition already
-5. Run to test ( Do not run in no-changed table name )
+5. Link Source / Target columns by using auto-match based on name
+<img width="1279" height="646" alt="image" src="https://github.com/user-attachments/assets/cf5c0ba9-b53c-4f8c-8ea0-ef6320279363" />
+
+6. Run to test ( Do not run in no-changed table name )
 
    
