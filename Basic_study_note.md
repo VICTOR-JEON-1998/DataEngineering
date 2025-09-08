@@ -34,4 +34,14 @@ Must have knowledge : Python ,SQL , Airflow
 
 Data Lineage : ETL Flow, Data’s relationship on ETL progress
 
----
+-------------------------------------------------------------------
+
+Snowflake is data warehouse which is operating on cloud system
+
+It serve data sharing 
+
+Normal data warehouse should load huge data at once, so it is not effective that using INSERT INTO.
+
+COPY INTO is more effective
+
+Snowflake consists of  ||| Cloud service Layer  / Storage Layer / Compute Layer → Completely seperated !
