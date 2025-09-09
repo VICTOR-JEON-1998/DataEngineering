@@ -120,8 +120,15 @@ FROM target_table;
 
 ### Idempotency
 What is idempotency?
+- Idempotency means that an operation can be performed multiple times without changing the final outcome beyond the initial application
 
 How to garuantee it?
-
+- By using Transaction
+  
 It is important to make docs to look to
+
+We should be carefull about privacy data.
+
+We can periodically delete the unused data.
+
 
