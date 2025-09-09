@@ -45,3 +45,22 @@ Normal data warehouse should load huge data at once, so it is not effective that
 COPY INTO is more effective
 
 Snowflake consists of  ||| Cloud service Layer  / Storage Layer / Compute Layer → Completely seperated !
+
+
+-------------------------------------------------------------------
+
+### Create DATABASE and SCHEMA in snowflake
+
+First, Create SQL worksheet
+and create database, schema like this
+<img width="1541" height="704" alt="image" src="https://github.com/user-attachments/assets/03b45d66-7061-4315-865a-ac2d15f10dba" />
+
+Generally, Data warehouse does not assure that PK's uniqueness. It just notice user to it is pk, so be carefull.
+
+I should guarantee PK's unique attribute.
+
+
+CTAS : Create Table ~ AS SELECT 
+
+
+
