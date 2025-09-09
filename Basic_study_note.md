@@ -114,3 +114,4 @@ FROM target_table;
 `
 ```
 
+<img width="782" height="183" alt="image" src="https://github.com/user-attachments/assets/3fa97fff-5802-4975-831c-98bbef56d5fa" />
