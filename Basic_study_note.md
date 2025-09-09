@@ -68,7 +68,7 @@ Insert can make duplicated issue, but upsert is insert + update. so, upsert only
 
 What will happen if i run the following code?
 
-`
+``` sql
  -- Example of UPSERT in Snowflake
 
 -- Creating the target table
@@ -112,5 +112,5 @@ WHEN NOT MATCHED THEN
 SELECT *
 FROM target_table;
 `
-
+```
 
