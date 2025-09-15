@@ -132,3 +132,11 @@ We should be carefull about privacy data.
 We can periodically delete the unused data.
 
 
+
+### Docker Compose
+- Docker compose is a tool define and run Multi-container applications
+- Multi-container application
+
+
+### Docker Volume
+
