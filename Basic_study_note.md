@@ -139,4 +139,10 @@ We can periodically delete the unused data.
 
 
 ### Docker Volume
+- Host System : Docker Operation machine ( Local PC )
+- Container : virtual machine that operating docker
+
+
+### Dags
+
 
